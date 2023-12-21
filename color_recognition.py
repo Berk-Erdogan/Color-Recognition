@@ -54,7 +54,7 @@ for x in range(7):
         counter += 1
 
 for x in range(9):
-    print(str(x) + ". " + "Color: " + new_colors[x])
+    print(str(x+1) + ". " + "Color: " + new_colors[x])
 
 f1 = cv2.FONT_ITALIC
 
