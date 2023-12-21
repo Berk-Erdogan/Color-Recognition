@@ -1,4 +1,4 @@
-import cv2
+import cv2 #this code maded for color recognition in rubik-cube solver
 import numpy as np
 
 img = cv2.imread("1.jpg")
